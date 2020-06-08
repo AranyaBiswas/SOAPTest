@@ -1,0 +1,28 @@
+2020-06-04 12:12:49,307 INFO  [log] [cancel, createContext, enforceMaxResults, equals, fail, getClass, getError, getGotoStepIndex, getId, getReason, getResultCount, getResults, getRunContext, getStartStep, getStartTime, getStatus, getTestCase, getTestRunnable, getThread, getTimeTaken, gotoStep, gotoStepByName, hashCode, internalRun, isCanceled, isFailed, isRunning, notify, notifyAll, onCancel, onFail, run, runTestStep, runTestStepByName, setResultCount, setStartStep, start, toString, wait, waitUntilFinished]
+2020-06-04 12:12:49,743 INFO  [log] value 100 is same as value 100
+2020-06-04 12:12:52,375 INFO  [log] Test Passed
+2020-06-04 12:12:53,047 INFO  [log] Result is: OK
+2020-06-04 12:12:53,049 INFO  [log] Result is: FAILED
+2020-06-04 12:12:53,639 INFO  [log] Test Passed
+2020-06-04 12:12:54,066 INFO  [log] FINISHED
+2020-06-04 12:12:54,067 INFO  [log] Basic Groovy
+2020-06-04 12:12:54,077 INFO  [log] Total number of test Step executed: 4
+2020-06-04 12:12:54,077 INFO  [log] I am currently in Step: Groovy Script1
+2020-06-04 12:12:54,094 INFO  [log] Add
+2020-06-04 12:12:54,095 INFO  [log] Groovy Script
+2020-06-04 12:12:54,096 INFO  [log] Sub
+2020-06-04 12:12:54,234 INFO  [log] Startin Script
+2020-06-04 12:15:22,849 INFO  [log] [cancel, createContext, enforceMaxResults, equals, fail, getClass, getError, getGotoStepIndex, getId, getReason, getResultCount, getResults, getRunContext, getStartStep, getStartTime, getStatus, getTestCase, getTestRunnable, getThread, getTimeTaken, gotoStep, gotoStepByName, hashCode, internalRun, isCanceled, isFailed, isRunning, notify, notifyAll, onCancel, onFail, run, runTestStep, runTestStepByName, setResultCount, setStartStep, start, toString, wait, waitUntilFinished]
+2020-06-04 12:15:23,957 INFO  [log] value 100 is same as value 100
+2020-06-04 12:15:25,728 INFO  [log] Test Passed
+2020-06-04 12:15:26,737 INFO  [log] Result is: OK
+2020-06-04 12:15:26,740 INFO  [log] Result is: FAILED
+2020-06-04 12:15:27,391 INFO  [log] Test Passed
+2020-06-04 12:15:27,694 INFO  [log] FINISHED
+2020-06-04 12:15:27,695 INFO  [log] Basic Groovy
+2020-06-04 12:15:27,715 INFO  [log] Total number of test Step executed: 4
+2020-06-04 12:15:27,720 INFO  [log] I am currently in Step: Groovy Script1
+2020-06-04 12:15:27,771 INFO  [log] Add
+2020-06-04 12:15:27,777 INFO  [log] Groovy Script
+2020-06-04 12:15:27,782 INFO  [log] Sub
+2020-06-04 12:15:28,379 INFO  [log] Startin Script
